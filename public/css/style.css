@@ -1,0 +1,36 @@
+*{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    box-sizing: border-box;
+}
+.red{
+    border: 2px solid red;
+}
+.choose_image{
+    width: 1000px;
+    height: 700px;
+    overflow-y: scroll;
+    border: 2px solid green;
+}
+.target_img{
+    width: 160px;
+    cursor: pointer;
+ border-radius: 10px;
+ margin: 15px 0;
+
+}
+.target_img:hover{
+    border: 2px solid green;
+    
+}
+.choose_image_file{
+    width: 200px;
+    border-radius: 10px;
+    cursor: pointer;
+}
+.choose_image_file:hover{
+    opacity: .8;
+}
+
+
