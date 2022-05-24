@@ -30,4 +30,4 @@
     npm run dev 
 ```
 
-![](screenshots/vue3_site.png)
+![](screenshots/addproduct.png)
