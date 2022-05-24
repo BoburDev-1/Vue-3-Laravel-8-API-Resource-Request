@@ -18,11 +18,13 @@
 ### File Manager
 
 
-``
+```
     npm install
-``    
+```
     
-``    composer install ``
-    
-    npm run dev ``
-``
+```    composer install 
+```
+
+```    
+    npm run dev 
+```
