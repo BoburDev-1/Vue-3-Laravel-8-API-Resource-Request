@@ -31,3 +31,11 @@
 ```
 
 ![](screenshots/addproduct.png)
+
+<img src="images/addproduct.png" width="800" alt="">
+<img src="images/choose_img.png" width="800" alt="">
+<img src="images/select_cat.png" width="800" alt="">
+<img src="images/finiw.png" width="800" alt="">
+<img src="images/show_product.png" width="800" alt="">
+<img src="images/cat_children.png" width="800" alt="">
+<img src="images/user.png" width="800" alt="">
