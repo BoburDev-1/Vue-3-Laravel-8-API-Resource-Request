@@ -20,8 +20,9 @@
 
 ``
     npm install
+``    
     
-    composer install
+``    composer install ``
     
-    npm run dev
+    npm run dev ``
 ``
